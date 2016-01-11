@@ -366,13 +366,13 @@ ul.social-network li {
 .social-network a.icoRss:hover {
   background-color: #F56505;
 }
-.social-network a.icoFacebook:hover {
+.social-network a.icoFacebook {
   background-color:#3B5998;
 }
-.social-network a.icoTwitter:hover {
+.social-network a.icoTwitter {
   background-color:#33ccff;
 }
-.social-network a.icoGit:hover {
+.social-network a.icoGit {
   background-color:#829aa8;
 }
 .social-network a.icoVimeo:hover {
@@ -407,7 +407,7 @@ a.socialIcon:hover, .socialHoverClass {
   text-align: center;
 }
 
-.social-circle li a:hover i, .triggeredHover {
+.social-circle li a:hover i {
   -moz-transform: rotate(360deg);
   -webkit-transform: rotate(360deg);
   -ms--transform: rotate(360deg);
@@ -418,14 +418,14 @@ a.socialIcon:hover, .socialHoverClass {
   -ms-transition: all 0.2s;
   transition: all 0.2s;
 }
-.social-circle i {
-  color: #fff;
-  -webkit-transition: all 0.8s;
-  -moz-transition: all 0.8s;
-  -o-transition: all 0.8s;
-  -ms-transition: all 0.8s;
-  transition: all 0.8s;
-}
+/*.social-circle i {*/
+  /*color: #fff;*/
+  /*-webkit-transition: all 0.8s;*/
+  /*-moz-transition: all 0.8s;*/
+  /*-o-transition: all 0.8s;*/
+  /*-ms-transition: all 0.8s;*/
+  /*transition: all 0.8s;*/
+/*}*/
 
 
 

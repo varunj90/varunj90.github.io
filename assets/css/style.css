@@ -38,7 +38,7 @@ p {
 
 
 a {
-    color: #ACBAC1;
+    color: #FFFFFF;
     word-wrap: break-word;
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -123,7 +123,7 @@ form.signup input.form-control:focus {
 
 #wrapper {
 	text-align: center;
-	background: url(../img/website_image.jpg) no-repeat center top;
+	background: url(../img/website_image-min.jpg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
   box-sizing:border;
