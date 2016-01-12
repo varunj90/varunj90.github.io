@@ -58,8 +58,8 @@ p.test1 {
 	text-align: center;
 	background: url(../img/website_image-min-min.png) no-repeat center top;
 	background-attachment: relative;
-	background-position: center center;
-  box-sizing:border;
+	background-position: center;
+    box-sizing:border;
 	max-width: 100%;
     border: 0;
     -webkit-background-size: 100%;
@@ -70,7 +70,8 @@ p.test1 {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: contain;
+
 }
 
 #wrapper > .container{
